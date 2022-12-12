@@ -18,7 +18,9 @@
 		"vscode": {
 			"extensions": [
 				"eamodio.gitlens",
-				"ms-python.python"
+				"ms-python.python",
+				"ysemeniuk.emmet-live",
+				"ms-vscode.vscode-node-azure-pack"
 			]
 			
 		}
